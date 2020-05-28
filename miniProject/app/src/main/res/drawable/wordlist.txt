@@ -1,0 +1,48 @@
+red रातो
+yellow पहेलो
+green  हरियो
+brown खैरो
+grey  खरानी
+black कालो
+white सेतो
+father बुबा
+mother आमा
+son छोरा
+daughter छोरि
+older brother दाई
+younger brother भाई
+older sister िदि
+younger sister बहिनि
+grandmother हजुरआमा
+grandfather हजुरबुबा
+water पानी
+rupees पैसा
+cloth लुगा
+food खाजा
+market पसल
+temple मन्दिर
+book किताब
+pen कलम
+river खोला
+everest हिमाल
+greetings नमस्ते
+thank you धन्येबाद
+i am sorry माफ गर्नु होस्
+see you again फेरि भेतुअम्ल"
+tasty  मिठो छ
+where are you going? कता जान लागेको?
+are you comming? िमि आउछौ
+i am comming म आउदै छु
+let's go ल जाउ
+come here  यता आऊ
+what time is it?  कति बज्यो
+i am here on vacation  मा एहा छुटी मा छु
+good night शुभ रात्री
+bill please   बिल लिएर आइदिनुस न
+at what time it will open?  बियो कति बजे खुल्छ?
+at what time it will close?  बियो कति बजे बन्द हुन्छ?
+can you help me? मदत गर्न सक्नु हुन्छ?
+do you speak english?  आइग्रेजी बोल्छौ?
+how are you?  कस्तो छौ?
+you are very kind? तिमि दयालु छौ?
+where i can find taxi? िएहा ट्याक्सी कता पाउछ?

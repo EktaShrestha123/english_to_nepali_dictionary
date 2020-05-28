@@ -1,0 +1,48 @@
+red
+yellow
+green
+brown
+grey
+black
+white
+father
+mother
+son
+daughter
+older brother
+younger brother
+older sister
+younger sister
+grandmother
+grandfather
+water
+rupees
+cloth
+food
+market
+temple
+book
+pen
+river
+everest
+greetings
+thank you
+i am sorry
+see you again
+tasty 
+where are you going?
+are you comming?
+i am comming
+let's go
+come here
+what time is it?
+i am here on vacation
+good night
+bill please 
+at what time it will open?
+at what time it will close?
+can you help me?
+do you speak english?
+how are you?
+you are very kind?
+where i can find taxi?
